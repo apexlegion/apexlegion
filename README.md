@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @apexlegion
 - 👀 I’m interested in Code Learning
-- 🌱 I’m currently learning python, Digital marketing, UI/UX
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me Over mail
+- 🌱 I’m currently learning python, UI/UX
+
+
 
 <!---
 apexlegion/apexlegion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
