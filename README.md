@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apexlegion
 - 👀 I’m interested in Code Learning
-- 🌱 I’m currently learning python, UI/UX
+- 🌱 I’m currently learning AI skills
 
 
 
